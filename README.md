@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back-to-top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -23,10 +23,10 @@
   <h3 align="center">Simple C register and login program</h3>
 
   <p align="center">
-    C register and login program is just a simple program to register and login at the same time on the black screen.
+    C register and login program is just a simple program to register and log in simultaneously on the black screen.
     <br />
     <a href="https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1"><strong>Explore the docs »</strong></a>
-    <br />
+    < br/>
     <br />
     <a href="https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1/issues">Report Bug</a>
     ·
@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The C program created is just a simple register and login algorithms implemented, to cover various aspects of C programming conditions and loops through the project, and see them at work all together.
+The C program created is just a simple register and login algorithms implemented, to cover various aspects of C programming conditions and loops through the project, and see them at work together.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,10 +102,10 @@ This is an example of how you may give instructions on setting up your project l
 
 ## Usage
 
-The C program is used to cover various conditional statements and loops used in C programming and help give a broad view on how they come together to bring out the register and login patterns to life.
+The C program covers various conditional statements and loops used in C programming and helps give a broad view of how they come together to bring the register and login patterns to life.
 
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="screenshots/c1.png" alt="Image 1" style="display: inline-block; max-width: 100%;">
+  <img src="screenshots/c1.PNG" alt="Image 1" style="display: inline-block; max-width: 100%;">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -163,7 +163,7 @@ Project Link: [https://github.com/slymackjr/C_Register_Login_Algorithm](https://
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-I would like to thanks these wonder full tools that enable me to make it all happen.
+I would like to thank these wonderful tools that enabled me to make it all happen.
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
