@@ -26,7 +26,7 @@
     C register and login program is just a simple program to register and log in simultaneously on the black screen.
     <br />
     <a href="https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1"><strong>Explore the docs »</strong></a>
-    < br/>
+    <br />
     <br />
     <a href="https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1/issues">Report Bug</a>
     ·
@@ -153,7 +153,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jofrey Nyamasheki - [@slymckjr_twitter](https://twitter.com/slymackjr) 
+Jofrey Nyamasheki - ([https://twitter.com/slymackjr](https://x.com/slymack_w?t=naiyIend2MU_qg-Tm4jQgw&s=09)) 
 Project Link: [https://github.com/slymackjr/C_Register_Login_Algorithm](https://github.com/slymackjr/C_Register_Login_Algorithm)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -187,7 +187,7 @@ I would like to thank these wonderful tools that enabled me to make it all happe
 [license-shield]: https://img.shields.io/github/license/slymackjr/C_Register_Login_Algorithm.svg?style=for-the-badge
 [license-url]: https://github.com/slymackjr/C_Register_Login_Algorithm/blob/cfile/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/jofrey-nyamasheki
+[linkedin-url]: https://www.linkedin.com/in/jofrey-nyamasheki-9bb8781ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 [product-screenshot]: screenshots/image1.png
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
