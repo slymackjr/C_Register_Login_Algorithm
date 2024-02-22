@@ -153,7 +153,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jofrey Nyamasheki - [@your_twitter](https://twitter.com/your_username) 
+Jofrey Nyamasheki - [@slymckjr_twitter](https://twitter.com/slymackjr) 
 Project Link: [https://github.com/slymackjr/C_Register_Login_Algorithm](https://github.com/slymackjr/C_Register_Login_Algorithm)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -187,7 +187,7 @@ I would like to thank these wonderful tools that enabled me to make it all happe
 [license-shield]: https://img.shields.io/github/license/slymackjr/C_Register_Login_Algorithm.svg?style=for-the-badge
 [license-url]: https://github.com/slymackjr/C_Register_Login_Algorithm/blob/cfile/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/jofrey-nyamasheki
 [product-screenshot]: screenshots/image1.png
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
